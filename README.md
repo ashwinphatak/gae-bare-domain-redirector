@@ -1,0 +1,1 @@
+Redirect bare domain hosted on GAE to www subdomain hosted elsewhere
